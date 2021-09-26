@@ -1,5 +1,5 @@
 h4{
-    background: linear-gradient(from left, red, green);
+    background: linear-gradient(to right, red, green);
 }
 p{
     background: linear-gradient(to right, yellow, blue);
