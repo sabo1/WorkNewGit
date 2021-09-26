@@ -1,0 +1,6 @@
+h4{
+    background: linear-gradient(from left, red, green);
+}
+p{
+    background: linear-gradient(to right, yellow, blue);
+}
